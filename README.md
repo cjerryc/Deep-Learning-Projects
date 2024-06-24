@@ -1,10 +1,10 @@
 # Deep-Learning-Projects
 #### Python, Keras, Tensorflow
 
-## Covered Material:
+## Covered Material in Repo and Labs:
 Epoch Training, Gradient Descent Implementation (Gradient Descent, Mini-Batch, Stochastic), Image Vectorization, One-Hot Encoding, CNN processing with CIFAR-10 Dataset, Using RNN's to generate text based on seed input, Target Image stylized with Style-Reference Image using VGG19, GAN's
 
-## Final Project:
+## Final Project (Kaggle Competition Entry):
 ### Ilógico
 #### Authors: Matthew Chak, Jerry Chang, Kyle Bistrain
 #### Under Guidance of: Dr. Assal
