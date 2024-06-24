@@ -63,10 +63,15 @@ For future development, we can expand our dataset with other datasets that share
 
 ## Work Cited
 [1] A. Vaswani et al., “Attention Is All You Need,” arXiv.org, Jun. 12, 2017. https://arxiv.org/abs/1706.03762
+
 [2] Cameron Hashemi-Pour, “What is BERT (Language Model) and How Does It Work?,” SearchEnterpriseAI. https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model#:~:text=BERT%2C%20which%20stands%20for%20Bidirectional
+
 [3] Conneau, Alexis, et al. “Unsupervised Cross-Lingual Representation Learning at Scale.” arXiv.Org, 8 Apr. 2020, https://arxiv.org/abs/1911.02116. Accessed 10 Mar. 2024. 
+
 [4] “Contradictory, my dear Watson,” Kaggle, https://www.kaggle.com/competitions/contradictory-my-dear-watson/overview (accessed Mar. 10, 2024). 
+
 [5] Rani Horev, “BERT Explained: State of the art language model for NLP,” Medium, Nov. 10, 2018.https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
 [6] Shivam Solanki, “What is sentiment analysis? IBM, October 25, 2022 https://www.ibm.com/topics/sentiment-analysis
 ‌
 
