@@ -1,4 +1,4 @@
-# Deep-Learning-Projects
+# Deep-Learning-Projects (TensorFlow practice & Kaggle Competitions)
 #### Python, Keras, Tensorflow
 
 ## Covered Material in Repo and Labs:
